@@ -1,4 +1,4 @@
-- This repository implements a text classification model using BERT to detect emotions in text. The project fine-tunes a pre-trained transformer model on the dair-ai/emotion dataset.
+This repository implements a text classification model using BERT to detect emotions in text. The project fine-tunes a pre-trained transformer model on the dair-ai/emotion dataset.
 
 **Features**
 - Preprocessing raw text data.
